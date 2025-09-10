@@ -1,5 +1,4 @@
 # Maheen Kamran
-## Here is my Heading
 
 ## Here is an ordered list:
 1. **Name: Maheen Kamran**
